@@ -1,0 +1,11 @@
+{
+    "trigger_level": 70,
+    "execution_level": 95,
+    "target_points": 20,
+    "stop_loss": 25,
+    "lot_size": 1,
+    "contract_size": 75,
+    "update_interval": 1,
+    "option_premium_target": 200,
+    "option_premium_range": 10
+}
